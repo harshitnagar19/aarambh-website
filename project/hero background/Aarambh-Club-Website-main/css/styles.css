@@ -1,0 +1,29 @@
+html {
+    background: black;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.body{
+    background: black;
+    color: #00317A;
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.BackgroundAnimation{
+    margin: 160x;
+    display: contents;
+}
+
+.background-animation {
+    display: contents;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
